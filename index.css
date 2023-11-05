@@ -17,12 +17,12 @@ font-weight: bold;
     text-decoration: underline;
 }.inbox2{
     background-color: white(255, 255, 255);
-    height: 300px;
+    min-height: 300px;
     padding: 10px;
     
 }.inbox3{
     background-color: white(199, 2, 2);
-    height: 300px;
+    min-height: 300px;
     
 }.b{
     background-color: red;
@@ -65,7 +65,7 @@ font-weight: bold;
     height: 250px;
 }.inbox7{
     background-color: rgb(1, 1, 29);
-    height: 300px;
+    min-height: 300px;
 }.container1{
     background-color: rgb(1, 1, 29) ;
 }.para{
